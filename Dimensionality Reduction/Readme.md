@@ -12,4 +12,24 @@ Dimensionality reduction is a very important technique that helps overcome the i
 2. [Feature Selection for Dimensionality Reduction: Wrapper Methods](https://medium.com/analytics-vidhya/feature-selection-for-dimensionality-reduction-wrapper-method-9979fffd0166)
 3. [Feature Selection for Dimensionality Reduction: Embedded Methods](https://medium.com/analytics-vidhya/feature-selection-for-dimensionality-reduction-embedded-method-e05c74014aa)
 
+# Feature Selection Techniques 
+Remove less significant features from data so that model is trained only on significant features. 
+
+## Filter Method 
+1. Correlation Method
+2. Chi Square Test
+3. Anova 
+4. Variance Inflation Factor
+
+Source : [Link](https://github.com/Sustainability4/EDA_Cleaning_Feature/blob/8ad344235ea851355841a0d8c02a5ad940396d1f/eda%20+%20stats.pdf)
+
+## Wrapper Method 
+Step Forward and Step Backward Methods. Step Forward methods involve adding feature one by one to see the model training and performance and accordingly determine the importance of features. Go through Above link 
+
+## Embedded Methods 
+
+1. Lasso, Ridge and Elastic Net : [link](https://github.com/Sustainability4/Machine-Learning/tree/main/Regression)
+2. XG Boost, Decision Tree and Random Forest : [link](https://github.com/Sustainability4/Machine-Learning/tree/main/Ensemble%20Techniques)
+
+
 
