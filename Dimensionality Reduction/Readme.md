@@ -36,9 +36,14 @@ Step Forward and Step Backward Methods. Step Forward methods involve adding feat
 # Feature Extraction Techniques 
 It is a method by which initial set of raw data is reduced to more manageable groups for processing.
 
-# PCA 
+## PCA 
 1. PCA Basics : [Link 1](https://www.youtube.com/watch?v=fkf4IBRSeEc), [Link 2](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 2. Eigen values and Eigen Vectors : [Link](https://www.youtube.com/watch?v=ZSGrJBS_qtc)
+
+## ICA 
+
+1. Blog TDS : [Link](https://towardsdatascience.com/independent-component-analysis-ica-a3eba0ccec35)
+2. Udacity Youtube Videos : [Link 1](https://www.youtube.com/watch?v=2WY7wCghSVI&t=1s), [Link 2](youtube.com/watch?v=wIlrddNbXDo)
 
 
 
