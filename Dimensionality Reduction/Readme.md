@@ -50,3 +50,8 @@ It is a method by which initial set of raw data is reduced to more manageable gr
 2. Visualisation : [Link](https://distill.pub/2016/misread-tsne/#perplexity=2&epsilon=8&demo=11&demoParams=50)
 3. Github : [Link](https://github.com/deveshSingh06/t-SNE/blob/master/t-SNE%20Implementation.ipynb)
 
+## UMAP 
+1. Video : [Stat Quest](https://www.youtube.com/watch?v=eN0wFzBA4Sc)
+2. Blog : [Link](https://towardsdatascience.com/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568)
+
+
