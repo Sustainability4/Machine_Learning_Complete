@@ -45,5 +45,8 @@ It is a method by which initial set of raw data is reduced to more manageable gr
 1. Blog TDS : [Link](https://towardsdatascience.com/independent-component-analysis-ica-a3eba0ccec35)
 2. Udacity Youtube Videos : [Link 1](https://www.youtube.com/watch?v=2WY7wCghSVI&t=1s), [Link 2](youtube.com/watch?v=wIlrddNbXDo)
 
-
+## t-SNE 
+1. Video : [Link](https://www.youtube.com/watch?v=NEaUSP4YerM)
+2. Visualisation : [Link](https://distill.pub/2016/misread-tsne/#perplexity=2&epsilon=8&demo=11&demoParams=50)
+3. Github : [Link](https://github.com/deveshSingh06/t-SNE/blob/master/t-SNE%20Implementation.ipynb)
 
