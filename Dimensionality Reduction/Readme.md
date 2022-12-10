@@ -54,4 +54,8 @@ It is a method by which initial set of raw data is reduced to more manageable gr
 1. Video : [Stat Quest](https://www.youtube.com/watch?v=eN0wFzBA4Sc)
 2. Blog : [Link](https://towardsdatascience.com/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568)
 
+## LDA : Linear Discriminant Analysis 
+1. Video : [Link](https://www.youtube.com/watch?v=azXCzI57Yfc)
+2. Blog : [Link](https://towardsdatascience.com/linear-discriminant-analysis-in-python-76b8b17817c2)
+
 
