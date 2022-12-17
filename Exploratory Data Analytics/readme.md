@@ -1,2 +1,1 @@
-## Step 1 : Understanding of the Data 
-## Step 2 : Data Cleaning 
+Follow the [link](https://github.com/Sustainability4/EDA_Cleaning_Feature.git)
